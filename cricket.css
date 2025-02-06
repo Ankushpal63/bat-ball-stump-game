@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background: #c6e2fa;
+}
+
+h1{
+    color: rgb(235, 107, 85);
+}
+
+h3{
+color: rgb(109, 114, 247);
+
+}
+.choice-button{
+        height: 100px;;
+        width: 100px;
+        border:none ;
+        margin: 10px;
+        background-color: rgb(132, 245, 122);
+        border-radius: 50px;
+        cursor: pointer;
+}
+.choice-image{
+    height: 60px;
+    width: 60px;
+
+    }
